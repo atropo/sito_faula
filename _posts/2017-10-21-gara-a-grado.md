@@ -18,3 +18,6 @@ Io, assieme a Fabrizio e Luigina, partiti dalla buca 18, abbiamo finti per primi
 Sono quindi passato a ringraziare Marco, direttore del golf di Grado, per la cordialità e la professionale bravura con cui ha gestito la nostra gara.
 
 Non mi dilungo oltre. Chi c’era ha vissuto con me la giornata. Mi spiace per chi non ha potuto partecipare e mi auguro di poter organizzare altri incontri e che tutti abbiano la possibilità ed il piacere di partecipare.
+
+
+_Sergio_
