@@ -1,0 +1,17 @@
+<!-- Three -->
+<section id="three" class="wrapper style3 special">
+	<div class="inner">
+		<header class="major">
+			<h2>Novità</h2>
+			<p>Segui tutte le novità e gli eventi che accadono nella grande famiglia della Faula</p>
+		</header>
+		<ul class="features">
+	{% for post in site.posts limit:site.news-count %}{% if site.news-source == 'posts' %}
+			<li class="icon fa-paper-plane-o">
+				<h3><a href="{{post.url | relative_url }}">{{post.title}}</a></h3>
+				<p>{{post.description}}</p>
+			</li>
+	{% endif %}{% endfor %}
+		</ul>
+	</div>
+</section>
