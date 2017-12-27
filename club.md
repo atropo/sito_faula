@@ -6,6 +6,17 @@ description: "Un insieme di persone con cui condividere la passione per questo b
 image: pic02.jpg
 ---
 
+### Diventa socio
+
+Diventare socio del golf club La Faula ti permette di tesserarti alla Federazione Italiana Golf inoltre:
+
+* potrai avere accesso completo al driving range
+* allenarti sul nuovo putting green sintetico
+* giocare sul percorso composto da sei buche executive
+* avere il supporto di un maestro professionista (iscritto alla FIG PGAI)
+* partecipare a tutti gli eventi che il nostro club organizza
+
+
 ### Dove siamo
 
 Il golf Club la Faula si trova a 15 minuti dal centro di  Udine, a Ravosa di Povoletto.
