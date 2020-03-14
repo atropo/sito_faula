@@ -25,9 +25,11 @@ github_username:  atropo
 
 # Build settings
 markdown: kramdown
-theme: spectral_jekyll_theme
+# theme: spectral_jekyll_theme
+remote_theme:  atropo/spectral-jekyll-theme 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
