@@ -19,7 +19,7 @@ Diventare socio del golf club La Faula ti permette di tesserarti alla Federazion
 <a href="{{ "/assets/docs/domanda_di_ammissione_socio.pdf" | relative_url }}">**Scarica la domanda di iscrizione**</a>
 
 
-### Quote sociali 2018
+### Quote sociali 2019
 
 Tessera federale F.I.G. non inclusa nelle quote sociali (€ 100,00 adulti - € 20,00 juniores)
 

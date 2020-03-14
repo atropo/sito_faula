@@ -48,4 +48,4 @@ plugins:
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 news-source: posts 
-news-count: 6
+news-count: 4
