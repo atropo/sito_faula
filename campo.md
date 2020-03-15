@@ -2,7 +2,7 @@
 layout: page
 title: "Il campo"
 permalink: /campo/
-description: "Nove buche executive ritagliate in un paesaggio collinare immerso nella natura"
+description: "Giocare all'aria aperta in uno dei paesaggi collinari più incantevoli del Friuli"
 image: pic03.jpg
 ---
 

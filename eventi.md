@@ -13,16 +13,21 @@ Il golf club La Faula fa parte del circuito ACP (Associazione Campi Pratica). Co
 Questo torneo si snoda su più tappe in campi diversi e, oltre alle premiazioni per ogni singola gara, porta alla creazione di una classifica totale, aggiornata di volta in volta. Alla fine della competizione i giocatori nelle prime posizioni riceveranno prestigiosi premi.
 Maggiori informazioni sul [sito ufficiale ACP](http://www.acpgolf.it)
 
-Essere socio del golf club La Faula ti da diritto a partecipare all' **ACP Trophy**.
+Essere socio del golf club La Faula ti da diritto a partecipare all' **ACP Trophy** e di usufruire delle relative convenzioni.
+
+
+### Rider cup
+
+Ogni anno il club compete con gli amici degli altri campi pratica (del circuito ACP) per la conquista della prestigiosa _Rider cup_
 
 
 ### Trasferte golfistiche
 
-Il nostro club organizza periodicamente trasferte golfistiche in vari campi da golf, in Italia ed all'estero.
-Queste trasferte permettono di giocare e visitare realtà golfistiche nuove ed entusiasmanti.
+Il nostro club organizza periodicamente trasferte golfistiche in vari campi, in Italia ed all'estero.
+Queste trasferte permettono di giocare e visitare luoghi nuovi ed entusiasmanti.
 
-Ad esempio, in associazione con l'[ACP](http://www.acpgolf.it) è stata organizzata una trasferta golfistica in terra Spagnola, nella quale i partecipanti hanno giocato in tre campi diversi.
-
+In associazione con l'[ACP](http://www.acpgolf.it) fino ad ora sono state organizzate delle vacanza golfistiche in terra spagnola, nelle zone di Alicante e Cadice.
+In totale, i partecipanti, hanno potuto giocare su più di dieci campi diversi.
 
 
 
