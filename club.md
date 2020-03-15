@@ -8,26 +8,35 @@ image: pic02.jpg
 
 ### Diventa socio
 
-Diventare socio del golf club La Faula ti permette di tesserarti alla Federazione Italiana Golf inoltre:
+Diventare socio del golf club La Faula ti permette di tesserarti alla Federazione Italiana Golf inoltre potrai:
 
-* potrai avere accesso completo al driving range
-* allenarti sul nuovo putting green sintetico
-* giocare sul percorso composto da sei buche executive
+
+* accedere all campo pratica del Golf Club La Faula (driving range e putting green)
+* accedere al percorso golfistico del Golf Club La Faula a 9 buche
+* utilizzare le strutture ed i servizi del circolo.
 * avere il supporto di un maestro professionista (iscritto alla FIG PGAI)
 * partecipare a tutti gli eventi che il nostro club organizza
+
+L’appartenenza alla Federazione Italiana Golf consente :
+* l’accesso a tutti i campi di golf nazionali
+* la partecipazione a gare
+* fornisce copertura assicurativa durante l’esercizio del golf ( dettagli al sito FIG )
+
+
 
 <a href="{{ "/assets/docs/domanda_di_ammissione_socio.pdf" | relative_url }}">**Scarica la domanda di iscrizione**</a>
 
 
-### Quote sociali 2019
+### Quote sociali 2020
 
 Tessera federale F.I.G. non inclusa nelle quote sociali (€ 100,00 adulti - € 20,00 juniores)
 
 * Socio ordinario  200,00 € 
+* Secondo membro della stesso nucleo famigliare  200,00 €
+* Dal terzo membro della stesso nucleo famigliare  100,00 €
 * Socio di secondo circolo  150,00 € 
-* Ragazzi sotto i 18 anni  100,00 € 
-* Secondo membro della stessa famiglia  200,00 €
-* Dal terzo membro della stessa famiglia  150,00 € 
+* Ragazzi dai 14 anni ai 18 anni  100,00 € 
+* Ragazzi fino ai 14 anni   gratuito
 
 
 ### Contatti
