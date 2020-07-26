@@ -44,7 +44,7 @@ Tessera federale F.I.G. non inclusa nelle quote sociali (€ 100,00 adulti - €
 Sono disponibili più recapiti per contattare il nostro club:
 
 * Generico: [info@golfclublafaula.com](info@golfclublafaula.com)
-* Segreteria: [segreteria@golfclublafaula.com](segreteria@golfclublafaula.com) (+39 3298619368)
+* Segreteria: [segreteria@golfclublafaula.com](segreteria@golfclublafaula.com) (+39 3331612866)
 * Presidenza: [presidenza@golfclublafaula.com](presidenza@golfclublafaula.com ) (+39 3356023512)
 
 
