@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Golf Club La Faula
 email: webmaster@golfclublafaula.com
+info_email: info@golfclublafaula.com
 description: >- # this means to ignore newlines until "baseurl:"
         Il Golf Club la Faula è un campo pratica che si trova a pochi km dalla città di Udine.
         Immerso nel verde è il modo ideale per avvicinarsi al bellissimo sport del golf.
