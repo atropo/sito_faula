@@ -1,0 +1,19 @@
+- name: Mail
+  link: mailto:info@golfclublafaula.com 
+  text: info@golfclublafaula.com  
+  icon: 
+
+- name: Facebook
+  link: https://it-it.facebook.com/golfudineclub
+  text: Golf Club La Faula
+  icon: icon fa-facebook
+
+- name: Segreteria
+  link: tel:+39 3331612866
+  text: +39 3331612866
+  icon: glyphicon glyphicon-earphone
+
+- name: Presidenza
+  link: tel:+393356023512
+  text: +39 3356023512
+  icon: glyphicon glyphicon-earphone
