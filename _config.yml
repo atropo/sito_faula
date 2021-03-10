@@ -21,8 +21,6 @@ description: >- # this means to ignore newlines until "baseurl:"
         Immerso nel verde è il modo ideale per avvicinarsi al bellissimo sport del golf.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.golfclublafaula.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: lazyEntity
-github_username:  atropo
 
 # Build settings
 markdown: kramdown
