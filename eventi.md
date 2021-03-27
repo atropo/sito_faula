@@ -2,7 +2,7 @@
 layout: page
 title: "Eventi"
 permalink: /eventi/
-description: "Il nostro club non è solo golf: partecipa alle nostre trasferte e ai nostri eventi"
+description: "La Faula non é solo golf, grazie all'ammirevole impegno dei soci,  numerosi sono gli eventi e le trasferte che vengono organizzati"
 image: pic05.jpg
 ---
 

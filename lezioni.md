@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Lezioni"
+title: "Lezioni e corsi di gruppo"
 permalink: /lezioni/
-description: "Seguito da un maestro professionista potrai migliorare la tua tecnica"
+description: "Un maestro professionista organizza corsi di gruppo per avvicinarsi al golf, o lezioni individuali per migliorare la propria tecnica"
 image: pic04.jpg
 ---
 

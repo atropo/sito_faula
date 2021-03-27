@@ -2,7 +2,7 @@
 layout: page
 title: "Il club"
 permalink: /club/
-description: "Un insieme di persone con cui condividere la passione per questo bellissimo sport"
+description: "Un affiatato gruppo di persone con cui condividere la passione per questo bellissimo sport da praticare in compagnia"
 image: pic02.jpg
 ---
 
