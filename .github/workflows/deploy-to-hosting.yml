@@ -8,6 +8,9 @@ on:
 
 jobs:
   jekyll:
+    environment: 
+      name: production
+      url: https://www.golfclublafaula.com
     name: Build and deploy Jekyll site
     runs-on: ubuntu-latest
     steps:
