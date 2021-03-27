@@ -23,7 +23,6 @@ L’appartenenza alla Federazione Italiana Golf consente :
 * fornisce copertura assicurativa durante l’esercizio del golf ( dettagli al sito FIG )
 
 
-
 <a href="{{ "/assets/docs/domanda_di_ammissione_socio.pdf" | relative_url }}">**Scarica la domanda di iscrizione**</a>
 
 
@@ -37,15 +36,6 @@ Tessera federale F.I.G. non inclusa nelle quote sociali (€ 100,00 adulti - €
 * Socio di secondo circolo  150,00 € 
 * Ragazzi dai 14 anni ai 18 anni  100,00 € 
 * Ragazzi fino ai 14 anni   gratuito
-
-
-### Contatti
-
-Sono disponibili più recapiti per contattare il nostro club:
-
-* Generico: [info@golfclublafaula.com](info@golfclublafaula.com)
-* Segreteria: [segreteria@golfclublafaula.com](segreteria@golfclublafaula.com) (+39 3331612866)
-* Presidenza: [presidenza@golfclublafaula.com](presidenza@golfclublafaula.com ) (+39 3356023512)
 
 
 
