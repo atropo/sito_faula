@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lavori di manutenzione"
-date:   2021-01-27 08:57:26 +0000
+date:   2021-03-25 20:00:00 +0000
 description: "In corso lavori di miglioramento del manto erboso"
 ---
 
