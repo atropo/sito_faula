@@ -20,7 +20,7 @@ Diventare socio del golf club La Faula ti permette di tesserarti alla Federazion
 L’appartenenza alla Federazione Italiana Golf consente :
 * l’accesso a tutti i campi di golf nazionali
 * la partecipazione a gare
-* fornisce copertura assicurativa durante l’esercizio del golf ( dettagli al sito FIG )
+* fornisce copertura assicurativa durante l’esercizio del golf ( dettagli al [sito FIG](https://www.federgolf.it/){:target="_blank"})
 
 
 <a href="{{ "/assets/docs/domanda_di_ammissione_socio.pdf" | relative_url }}" class="button special">
