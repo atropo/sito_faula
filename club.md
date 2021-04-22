@@ -23,7 +23,10 @@ L’appartenenza alla Federazione Italiana Golf consente :
 * fornisce copertura assicurativa durante l’esercizio del golf ( dettagli al sito FIG )
 
 
-<a href="{{ "/assets/docs/domanda_di_ammissione_socio.pdf" | relative_url }}">**Scarica la domanda di iscrizione**</a>
+<a href="{{ "/assets/docs/domanda_di_ammissione_socio.pdf" | relative_url }}" class="button special">
+    <span class="glyphicon glyphicon-download" aria-hidden="true"></span>
+    **Scarica la domanda di iscrizione**
+</a>
 
 
 ### Quote sociali 2021
