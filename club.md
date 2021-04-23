@@ -33,6 +33,16 @@ L’appartenenza alla Federazione Italiana Golf consente :
 
 Tessera federale F.I.G. non inclusa nelle quote sociali (€ 100,00 adulti - € 20,00 juniores)
 
+|                                                 	| Quota    	|
+|-------------------------------------------------	|----------	|
+| Socio ordinario                                 	| 200€     	|
+| Secondo membro della stesso nucleo famigliare   	| 200€     	|
+| Dal terzo membro della stesso nucleo famigliare 	| 100€     	|
+| Socio di secondo circolo                        	| 150€     	|
+| Ragazzi dai 14 anni ai 18 anni                  	| 100€     	|
+| Ragazzi fino ai 14 anni                         	| gratuito 	|
+
+
 * Socio ordinario  200,00 € 
 * Secondo membro della stesso nucleo famigliare  200,00 €
 * Dal terzo membro della stesso nucleo famigliare  100,00 €
