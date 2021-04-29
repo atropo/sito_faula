@@ -72,14 +72,6 @@ Tessera federale F.I.G. non inclusa nelle quote sociali (€ 100,00 adulti - €
     </div>
 </div>
 
-* Socio ordinario  200,00 € 
-* Secondo membro della stesso nucleo famigliare  200,00 €
-* Dal terzo membro della stesso nucleo famigliare  100,00 €
-* Socio di secondo circolo  150,00 € 
-* Ragazzi dai 14 anni ai 18 anni  100,00 € 
-* Ragazzi fino ai 14 anni   gratuito
-
-
 
 ### Dove siamo
 
