@@ -6,7 +6,15 @@
 
     <!-- Main -->
     <article id="main">
-        <header{% if page.image %} style="background-image: url('{% if site.featured-image-source %}{{ page.image | prepend: site.featured-image-source | relative_url }}{% else %}{{ "" | relative_url }}/assets/images/{{ page.image }}{% endif %}');"{% endif %}>
+        {% capture imageUrl %}
+        {% if site.featured-image-source %}{{ page.image | prepend: site.featured-image-source | relative_url }}{% else %}{{ "" | relative_url }}/assets/images/{{ page.image }}{% endif %}
+        {% endcapture %}
+        
+        <header{% if page.image %} style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url({{imageUrl}});
+            background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url({{imageUrl}});
+            background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url({{imageUrl}});
+            background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url({{imageUrl}});
+            "{% endif %}>
             <h2>{{ page.title }}</h2>
             <p>{{ page.description }}</p>
         </header>
