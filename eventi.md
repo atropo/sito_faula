@@ -6,6 +6,8 @@ description: "La Faula non é solo golf, grazie all'ammirevole impegno dei soci,
 image: pic05.jpg
 ---
 
+<div class="fb-page image right 6u" data-href="https://www.facebook.com/golfudineclub/" data-tabs="events" data-width="500" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/golfudineclub/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/golfudineclub/">Golf Club La Faula</a></blockquote></div>
+
 ### ACP Trophy
 
 Il golf club La Faula fa parte del circuito ACP (Associazione Campi Pratica). Congiuntamente con gli altri campi associati, il nostro club partecipa attivamente al torneo denominato **ACP Trophy**.
