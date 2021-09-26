@@ -138,3 +138,66 @@ La buca 6 è un par 3 da 115 metri. I battitori in posizione sopraelevata permet
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/OuJ_dbUDBnc?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 </div>
+
+<br>
+
+### Buca 7
+
+##### La Cieca - La Strie Vuàrbe
+
+La buca 7 è un par 3 da 120 metri in piano. Una siepe che si estende verso il centro, partendo dalla sinistra del fairway, rende il teeshot in parte cieco. Su tutto il lato destro della buca è delimitato da un'area di penalità.
+
+
+
+<div class="row">
+	<div class="col-md-6">
+		<a href="/assets/images/holes/hole7.jpg" target="_blank">
+			<img src="/assets/images/holes/hole7.jpg" width="500px">
+		</a>
+	</div>
+	<div class="col-md-6">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/_56LoXlkuDI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+</div>
+
+<br>
+
+### Buca 8
+
+##### La Corta - Le Curte
+
+La buca 9 è la buca più facile del campo, un par 3 in piano da 93 metri. Su tutto il lato destro della buca si estend un fuori limite, mentre il lato sinistro della bandiera è delimitato da un area di penalità.
+
+
+
+
+<div class="row">
+	<div class="col-md-6">
+		<a href="/assets/images/holes/hole8.jpg" target="_blank">
+			<img src="/assets/images/holes/hole8.jpg" width="500px">
+		</a>
+	</div>
+	<div class="col-md-6">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/VNB90mguC0w?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+</div>
+
+<br>
+
+### Buca 9
+
+##### La Strettoia - Le Maline
+
+Il percorso si conclude con la buca 9: un par 3 da 130 metri. La buca si sviluppa lungo il lato sinistro del driving range. La partenza, particolarmente stretta e l'area di penalità che si estende su tutto il lato sinistro, sono dovute alla prossimità del torrente Malina che vi scorre a fianco e che da origine al nome friulano.
+
+
+<div class="row">
+	<div class="col-md-6">
+		<a href="/assets/images/holes/hole9.jpg" target="_blank">
+			<img src="/assets/images/holes/hole9.jpg" width="500px">
+		</a>
+	</div>
+	<div class="col-md-6">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/c0Vsf5SDCGM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+</div>
