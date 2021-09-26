@@ -10,7 +10,7 @@ image: pic03.jpg
 Il tracciato è composto da nove buche executive che si snodano sulle colline sopra le aree di pratica.
 
 <a href="/assets/images/percorso.jpg" target="_blank">
-	<img src="/assets/images/percorso.jpg" width="600px">
+	<img src="/assets/images/percorso.jpg" width="300px">
 </a>
 
 Nonostante il campo sia caratterizzato da buche tipo executive, il costante impegno e la cura dedicate da tutti i soci lo rendono un piccolo gioiello incastonato in un paesaggio naturale tipico del Friuli collinare. 
