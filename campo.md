@@ -60,7 +60,7 @@ La buca 2 è par 4 (5 per le ladies) da 200 metri. La conformazione della buca �
 
 ##### La Quercia - Il Rôl
 
-La buca 3 è un par 3 (4 per le ladies) in discesa, da 150 metri caratterizzato da un' imponente quercia che si frappone fra il battitore ed il green.
+La buca 3 è un par 3 (4 per le ladies) in discesa, da 150 metri,  caratterizzato da un' imponente quercia che si frappone fra il battitore ed il green.
 
 
 
@@ -76,5 +76,65 @@ La buca 3 è un par 3 (4 per le ladies) in discesa, da 150 metri caratterizzato 
 </div>
 
 
+<br>
+
+### Buca 4
+
+##### Il Cammello - Il Sgrumbulât
+
+La buca 4 è un altro par 3 (4 per le ladies) da 115 metri, ma questa volta in salita. Sulla destra e sulla sinistra delle aree di penalità richiedono un colpo molto preciso.
 
 
+
+<div class="row">
+	<div class="col-md-6">
+		<a href="/assets/images/holes/hole4.jpg" target="_blank">
+			<img src="/assets/images/holes/hole4.jpg" width="400px">
+		</a>
+	</div>
+	<div class="col-md-6">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/GbSVetW0q0w?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+</div>
+
+<br>
+
+### Buca 5
+
+##### La Maledetta - Folc Che Ti Trai
+
+La buca 5 è un par 3 (4 per le ladies) da 170 metri. La buca è in piano, con una leggera pendenza del fairway verso destra. La presenza di aree di penalità sia a destra che a sinistra richiedono molta precisione, rendendo il teeshot estremamente delicato. La difficoltà insita in questa buca è rispecchiata dal suo HCP e dal nome che porta.
+
+
+
+<div class="row">
+	<div class="col-md-6">
+		<a href="/assets/images/holes/hole5.jpg" target="_blank">
+			<img src="/assets/images/holes/hole5.jpg" width="500px">
+		</a>
+	</div>
+	<div class="col-md-6">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/StXQ8I_IPFk?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+</div>
+
+<br>
+
+### Buca 6
+
+##### Il Salto - Il Salt
+
+La buca 6 è un par 3 da 115 metri. I battitori in posizione sopraelevata permetto una chiara visione della bandiera. Un area di penalità situata in fondo alla buca punisce i colpi eccessivamente lunghi.
+
+
+
+<div class="row">
+	<div class="col-md-6">
+		<a href="/assets/images/holes/hole6.jpg" target="_blank">
+			<img src="/assets/images/holes/hole6.jpg" width="600px">
+		</a>
+	</div>
+	<div class="col-md-6">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/OuJ_dbUDBnc?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+</div>
