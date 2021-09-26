@@ -104,7 +104,7 @@ La buca 4 è un altro par 3 (4 per le ladies) da 115 metri, ma questa volta in s
 <div class="row">
 	<div class="col-md-6">
 		<a href="/assets/images/holes/hole4.jpg" target="_blank">
-			<img src="/assets/images/holes/hole4.jpg" width="400px">
+			<img src="/assets/images/holes/hole4.jpg" width="300px">
 		</a>
 	</div>
 	<div class="col-md-6">
@@ -125,7 +125,7 @@ La buca 5 è un par 3 (4 per le ladies) da 170 metri. La buca è in piano, con u
 <div class="row">
 	<div class="col-md-6">
 		<a href="/assets/images/holes/hole5.jpg" target="_blank">
-			<img src="/assets/images/holes/hole5.jpg" width="500px">
+			<img src="/assets/images/holes/hole5.jpg" width="300px">
 		</a>
 	</div>
 	<div class="col-md-6">
@@ -146,7 +146,7 @@ La buca 6 è un par 3 da 115 metri. I battitori in posizione sopraelevata permet
 <div class="row">
 	<div class="col-md-6">
 		<a href="/assets/images/holes/hole6.jpg" target="_blank">
-			<img src="/assets/images/holes/hole6.jpg" width="600px">
+			<img src="/assets/images/holes/hole6.jpg" width="300px">
 		</a>
 	</div>
 	<div class="col-md-6">
@@ -167,7 +167,7 @@ La buca 7 è un par 3 da 120 metri in piano. Una siepe che si estende verso il c
 <div class="row">
 	<div class="col-md-6">
 		<a href="/assets/images/holes/hole7.jpg" target="_blank">
-			<img src="/assets/images/holes/hole7.jpg" width="500px">
+			<img src="/assets/images/holes/hole7.jpg" width="300px">
 		</a>
 	</div>
 	<div class="col-md-6">
@@ -189,7 +189,7 @@ La buca 9 è la buca più facile del campo, un par 3 in piano da 93 metri. Su tu
 <div class="row">
 	<div class="col-md-6">
 		<a href="/assets/images/holes/hole8.jpg" target="_blank">
-			<img src="/assets/images/holes/hole8.jpg" width="500px">
+			<img src="/assets/images/holes/hole8.jpg" width="300px">
 		</a>
 	</div>
 	<div class="col-md-6">
@@ -209,7 +209,7 @@ Il percorso si conclude con la buca 9: un par 3 da 130 metri. La buca si svilupp
 <div class="row">
 	<div class="col-md-6">
 		<a href="/assets/images/holes/hole9.jpg" target="_blank">
-			<img src="/assets/images/holes/hole9.jpg" width="500px">
+			<img src="/assets/images/holes/hole9.jpg" width="300px">
 		</a>
 	</div>
 	<div class="col-md-6">
