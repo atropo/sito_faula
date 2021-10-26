@@ -33,21 +33,6 @@ I continui lavori di miglioramento hanno fatto sì che la maggior parte delle bu
 
 {% for hole in site.data.holes %}
 
-### Buca {{hole.number}}
-##### {{hole.name_it}} - {{hole.name_fur}}
-
-{{hole.description}}
-
-<div class="row">
-	<div class="col-md-6">
-		<a href="/assets/images/holes/hole{{hole.number}}.jpg" target="_blank">
-			<img src="/assets/images/holes/hole{{hole.number}}.jpg" width="300px">
-		</a>
-	</div>
-	<div class="col-md-6">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/{{hole.youtube_id}}?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	</div>
-</div>
-
+	{% include hole-description.html hole=hole %}
 
 {% endfor %}
