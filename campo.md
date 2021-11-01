@@ -19,20 +19,13 @@ Le buche si adattano al paesaggio collinare della zona, portando il giocatore ad
 
 I continui lavori di miglioramento hanno fatto sì che la maggior parte delle buche sia ora dotata di green sintetici.
 
-
-* [Buca 1](#buca-1)
-* [Buca 2](#buca-2)
-* [Buca 3](#buca-3)
-* [Buca 4](#buca-4)
-* [Buca 5](#buca-5)
-* [Buca 6](#buca-6)
-* [Buca 7](#buca-7)
-* [Buca 8](#buca-8)
-* [Buca 9](#buca-9)
+<ul>
+{% for hole in site.data.holes %}
+<li><a href="#buca-{{forloop.index}}">Buca {{forloop.index}}</a></li>
+{%endfor%}
+</ul>
 
 
 {% for hole in site.data.holes %}
-
 	{% include hole-description.html hole=hole %}
-
 {% endfor %}
