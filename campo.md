@@ -2,7 +2,7 @@
 layout: page
 title: "Il campo"
 permalink: /campo/
-description: "Passare del tempo all'aria aperta in un campo in continuo miglioramento, immerso in uno dei paesaggi più incantevoli del Friuli collinare"
+description: "Passare del tempo all'aria aperta in un campo immerso in uno dei paesaggi più incantevoli del Friuli collinare"
 image: pic03.jpg
 ---
 

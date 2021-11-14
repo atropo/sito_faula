@@ -2,7 +2,7 @@
 layout: page
 title: "Il club"
 permalink: /club/
-description: "Un affiatato gruppo di persone con cui condividere la passione per questo bellissimo sport da praticare in compagnia"
+description: "Più che un club, una grande famiglia"
 image: pic02.jpg
 ---
 
@@ -29,7 +29,7 @@ L’appartenenza alla Federazione Italiana Golf consente:
 </a>
 
 
-### Quote sociali 2021
+### Quote sociali 2022
 
 Tessera federale F.I.G. non inclusa nelle quote sociali (€ 100,00 adulti - € 20,00 juniores)
 
