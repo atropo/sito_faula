@@ -29,7 +29,7 @@ L’appartenenza alla Federazione Italiana Golf consente:
 </a>
 
 
-### Quote sociali 2021
+### Quote sociali 2022
 
 Tessera federale F.I.G. non inclusa nelle quote sociali (€ 100,00 adulti - € 20,00 juniores)
 
