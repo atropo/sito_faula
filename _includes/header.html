@@ -16,7 +16,13 @@
 						<ul>
 							{% for page in site.pages %}
 								{% if page.layout == "page" %}
-								<li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+								<li><a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+									{% for subpage in page.subpages %}
+									<ul>
+										<li><a href="{{ page.url | relative_url | append: subpage.url }}">{{ subpage.title }}</a></li>
+									</ul>
+									{% endfor %}
+								</li>
 								{% endif %}
 							 {% endfor %}
 						</ul>
