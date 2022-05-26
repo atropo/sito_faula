@@ -47,6 +47,6 @@ plugins:
 
 # Homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 10
 news-source: posts 
 news-count: 4
