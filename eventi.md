@@ -42,20 +42,8 @@ Queste trasferte permettono di giocare e visitare luoghi nuovi ed entusiasmanti 
 
 ## Eventi affiliati
 
-### WeGolf
+### YouGolf
 
-Molti soci della Faula partecipano al circuito [WeGolf](https://wegolf.fun/).
+Molti soci della Faula partecipano al circuito [YouGolf](https://yougolf.it/).
 L'adesione al circuito permette di giocare su molti campi del nord Italia a prezzi agevolati, e di far parte della classifica annuale.
-Maggiori informazioni sul sito ufficiale [wegolf.fun](https://wegolf.fun).
-
-
-### Rider cup
-
-Ogni anno il club compete con gli amici degli altri campi pratica (del circuito ACP) per la conquista della prestigiosa _Rider cup_
-
-### ACP Trophy
-
-Il golf club La Faula fa parte del circuito ACP (Associazione Campi Pratica). Congiuntamente con gli altri campi associati, il nostro club partecipa attivamente al torneo denominato **ACP Trophy**.
-
-Essere socio del golf club La Faula ti da diritto a partecipare all' **ACP Trophy** e di usufruire delle relative convenzioni.
-Maggiori informazioni sul [sito ufficiale ACP](http://www.acpgolf.it)
+Maggiori informazioni sul sito ufficiale [yougolf.it](https://yougolf.it).

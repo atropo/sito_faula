@@ -1,6 +1,7 @@
 <!-- for Facebook purpose -->
 <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v10.0" nonce="IClGlB3y"></script>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v10.0"
+	nonce="IClGlB3y"></script>
 
 <!-- Page Wrapper -->
 <div id="page-wrapper">
@@ -15,16 +16,11 @@
 					<div id="menu">
 						<ul>
 							{% for page in site.pages %}
-								{% if page.layout == "page" %}
-								<li><a href="{{ page.url | relative_url }}">{{ page.title }}</a>
-									{% for subpage in page.subpages %}
-									<ul>
-										<li><a href="{{ page.url | relative_url | append: subpage.url }}">{{ subpage.title }}</a></li>
-									</ul>
-									{% endfor %}
-								</li>
-								{% endif %}
-							 {% endfor %}
+							{% if page.layout == "page" %}
+							<li><a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+							</li>
+							{% endif %}
+							{% endfor %}
 						</ul>
 					</div>
 				</li>
