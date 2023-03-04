@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: page
 title: "Coppa del nonno"
 permalink: /eventi/coppa_nonno/
 description: "Torneo a tappe riservato ai soci della Faula e agli amici over 60"
-image: pic05.jpg
+image: pic03.jpg
+menu: true
 ---
 
 ###  Coppa del nonno - Torneo del venerdì
