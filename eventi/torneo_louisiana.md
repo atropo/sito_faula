@@ -8,19 +8,7 @@ image: pic05.jpg
 
 ###  Torneo Louisiana a coppie
 
-Il circuito, aperto a tu/e i soci del nostro club, è costuito da 4 gare:
-
-<ol>
-    <li>Domenica 11 giugno ore 9.30 Gara inaugurale a 9 buche presso golf Club La Faula</li>
-    <li>Mercoledì 5 luglio ore 17.30 Seconda tappa a 9 buche presso golf Club La Faula</li>
-    <li>Domenica 23 luglio Terza tappa a 9 buche (prime 9) presso golf Club Udine</li>
-    <li>Domenica 17 o 24 seembre Finale a 18 buche presso il golf Club Castello di Spessa</li>
-</ol>
-
-Per le gare alla Faula è fissato un green fee di € 5,00 per ciascun partecipante.
-Per le gare che si giocheranno su campi esterni, il green fee sarà fissato dal campo ospitante.
-
-<br>
+Il circuito, aperto a tu/e i soci del nostro club.
 
 I partecipan dovranno costuire squadre da 2 giocatori che saranno fisse per l’intero circuito.
 È possibile iscriversi anche singolarmente; in tal caso il comitato sporvo provvederà a costuire le coppie

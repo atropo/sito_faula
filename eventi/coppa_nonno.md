@@ -7,7 +7,7 @@ image: pic03.jpg
 menu: true
 ---
 
-###  Coppa del nonno - Torneo del venerdì
+###  Coppa del nonno 
 
 Possono partecipare alla gara tutti/e i soci del nostro club, quelli che hanno più di 60 anni o che sono comunque nonni vengono inseriti in classifica.
 
@@ -16,4 +16,4 @@ Ad ogni tappa c'è un vincitore secondo una classifica elaborata con il metodo m
 Si gareggerà 1 volta al mese, da febbraio a novembre con l'eccezione del mese di agosto.
 
 Per ogni tappa è rigorosamente obbligatorio per tutti partecipare al pranzo e alla premiazione finale.
-Chi vince la classifica generale finale si aggiudica la 2^ Coppa del Nonno.
+Chi vince la classifica generale finale si aggiudica la Coppa del Nonno.
