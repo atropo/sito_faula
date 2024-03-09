@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Nuovo Open Day"
 description: "Venerdì 8 Marzo, a partire dalle ore 17, prova il golf gratuitamente"
 image: pic03.jpg
